@@ -1,0 +1,10 @@
+.App {
+    margin: 20px 20px auto 20px;
+}
+
+.pane {
+    margin: 5px;
+    padding: 5px;
+    border: solid black 1px;
+    float: left;
+}
