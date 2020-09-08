@@ -1,3 +1,4 @@
-https://itsnotgoodname.github.io/wiz-calc/
+wiz-calc
 =
+https://itsnotgoodname.github.io/wiz-calc/
 ![](public/demo.png)
