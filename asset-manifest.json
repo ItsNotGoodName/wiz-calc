@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wiz-calc/static/css/main.5de99c17.chunk.css",
+    "main.js": "/wiz-calc/static/js/main.6f350bb7.chunk.js",
+    "main.js.map": "/wiz-calc/static/js/main.6f350bb7.chunk.js.map",
+    "runtime-main.js": "/wiz-calc/static/js/runtime-main.75186e6d.js",
+    "runtime-main.js.map": "/wiz-calc/static/js/runtime-main.75186e6d.js.map",
+    "static/css/2.ceb79488.chunk.css": "/wiz-calc/static/css/2.ceb79488.chunk.css",
+    "static/js/2.bad50513.chunk.js": "/wiz-calc/static/js/2.bad50513.chunk.js",
+    "static/js/2.bad50513.chunk.js.map": "/wiz-calc/static/js/2.bad50513.chunk.js.map",
+    "index.html": "/wiz-calc/index.html",
+    "precache-manifest.99e55a7899d2c77a87014215ff2de7c9.js": "/wiz-calc/precache-manifest.99e55a7899d2c77a87014215ff2de7c9.js",
+    "service-worker.js": "/wiz-calc/service-worker.js",
+    "static/css/2.ceb79488.chunk.css.map": "/wiz-calc/static/css/2.ceb79488.chunk.css.map",
+    "static/css/main.5de99c17.chunk.css.map": "/wiz-calc/static/css/main.5de99c17.chunk.css.map",
+    "static/js/2.bad50513.chunk.js.LICENSE.txt": "/wiz-calc/static/js/2.bad50513.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75186e6d.js",
+    "static/css/2.ceb79488.chunk.css",
+    "static/js/2.bad50513.chunk.js",
+    "static/css/main.5de99c17.chunk.css",
+    "static/js/main.6f350bb7.chunk.js"
+  ]
+}
